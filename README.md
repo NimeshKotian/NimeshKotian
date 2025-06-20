@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Nimesh Kotian
 
-🚀 **AI Engineer | Applied Data Science MSc Student | NLP & LLM Specialist**
+🚀 **AI Engineer | Open to Other Roles - Data Analyst, Data Engineer | Applied Data Science MSc Student - Mar 2026 Grad | NLP & LLM Specialist**
 
 I'm an AI-focused Master's student based in Germany, with over 5 years of professional experience in software engineering and data analytics. My passion lies in building intelligent systems using Large Language Models (LLMs), agentic AI architectures, and scalable cloud infrastructure.
 
-- 🔭 Currently working on AI agent systems and real-time research automation tools
+- 🔭 I have worked on AI agent systems and real-time research automation tools
 - 🌱 Pursuing M.Sc. in Applied Data Science and Analytics at SRH Hochschule Heidelberg
 - 🧠 Skilled in NLP, Generative AI, LangChain, LangGraph, RAG, and prompt engineering
 - 💼 Previously at Hexaware Technologies, working with Inchcape Shipping and BBH
@@ -42,7 +42,7 @@ Built an end-to-end ETL pipeline on GCP with PySpark, dbt, and BigQuery. Visuali
 ### 🔹 Automated Recruitment System
 Python-based app matching candidates to job roles using neural networks and automating code test workflows with Streamlit.
 
-More on my [GitHub Repositories](https://github.com/your-username) 🚧
+More on my GitHub Repositories🚧
 
 ---
 
